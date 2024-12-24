@@ -1,0 +1,2 @@
+# group2_good_server
+group2_good_server
